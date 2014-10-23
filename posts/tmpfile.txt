@@ -1,0 +1,1 @@
+<p><span class="firstchar">H</span>ey all. How is this? How is <i>this???</i> Wow. Neat. <b>I am a cat.</b></p><div class="linkbar"><a>*</a><a>*</a><a>*</a></div><p><span class="firstchar">W</span>hat's going on? <a href="http://google.com">You can find out here!</a></p><p>Isn't that FUN?</p>
